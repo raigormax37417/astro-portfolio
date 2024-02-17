@@ -1,12 +1,12 @@
 {
     "basics": {
       "name": "Marco Antonio Orozco Vasquez",
-      "label": "Software Developer con 2 años de experiencia",
+      "label": "Software Developer con 2 años de experiencia, me apasiona el desarrollo y aprender de nuevos retos relacionados a programación, disfruto de mi tiempo libre leyendo, viendo nuevos videos acerca de la tecnología o con alguna película entretenida.",
       "image": "/me.webp",
       "email": "raigormax@gmail.com",
       "phone": "+52 9513272210",
-      "url": "https://midu.dev",
-      "summary": "+2 Años de experiencia, ",
+      "url": "https://github.com/raigormax37417",
+      "summary": "+2 Años de experiencia, Hola, apasionado del desarrollo de software desde que conocí la programación, me gusta programar, salir a correr, disfrutar de mi tiempo libre viendo algunos deportes o películas, también veo algunos documentales interesantes.",
       "location": {
         "address": "",
         "postalCode": "68000",
@@ -34,28 +34,38 @@
         "url": "https://twitch.tv/midudev",
         "startDate": "2022-06-01",
         "endDate": "2024-02-01",
-        "summary": "He trabajado en la empresa MundoWeb realizando desde la maquetación, diseño y desarrollo de sistemas y aplicaciones.",
+        "summary": "He trabajado en la empresa MundoWeb realizando desde la maquetación, diseño y desarrollo de sistemas y aplicaciones. La creación de un sistema de carreras de atletismo, triatlon, acuatlon, etc, todo esto desarrollado con Laravel + Los métodos de pago implementados con Conekta",
         "highlights": [
           "Started the company"
+        ]
+      },
+      {
+        "name": "Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca",
+        "position": "Full Stack Developer",
+        "url": "https://ieepco.org.mx",
+        "startDate": "2024-02-10",
+        "summary": "Revisión de los sistemas existentes y adaptación de los mismos para las nuevas tecnologías.",
+        "highlights": [
+          "Revisión de proyectos"
         ]
       }
     ],
     "volunteer": [{
-      "organization": "Organization",
+      "organization": "ITVO",
       "position": "Volunteer",
-      "url": "https://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Description…",
+      "url": "https://www.voaxaca.tecnm.mx/",
+      "startDate": "2022-06-01",
+      "endDate": "2013-08-01",
+      "summary": "Por medio de un equipo de trabajo desarrollamos una aplicación para un almacén de la universidad, la cual permite que los estudiantes por medio del enlace del sitio realizar sus pedidos y escanearlos por medio de un código QR",
       "highlights": [
-        "Awarded 'Volunteer of the Month'"
+        "Voluntario", "Angular", "TypeScript", "TailwindCSS", "HTML"
       ]
     }],
     "education": [{
       "institution": "Instituto Tecnológico del Valle de Oaxaca",
       "url": "https://www.voaxaca.tecnm.mx/",
       "area": "Ingeniero Informático",
-      "studyType": "Bachelor",
+      "studyType": "Licenciatura",
       "startDate": "2018-07-01",
       "endDate": "2023-06-01",
       "score": "9.4",
@@ -166,6 +176,13 @@
         "keywords": [
           "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
         ]
+      },
+      {
+        "name": "Angular",
+        "level": "Intermedio",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Library"
+        ]
       }
     ],
     "languages": [
@@ -175,82 +192,57 @@
       },
       {
         "language": "English",
-        "fluency": "Basic"
+        "fluency": "Basic B1"
       }
     ],
-    "interests": [{
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }],
+    "interests": [
+      {
+        "name": "Formula 1",
+        "keywords": [
+          "Ferrets",
+          "Unicorns"
+        ]
+      },
+      {
+        "name": "NFL",
+        "keywords": [
+          "Philadelphia Eagles"
+        ]
+      }
+  ],
     "references": [{
       "name": "Jane Doe",
       "reference": "Reference…"
     }],
     "projects": [
       {
-        "name": "mars.codes",
+        "name": "Sistema Almacen",
         "isActive": true,
-        "description": "Historia interactiva con retos de programación para viajar a Marte",
+        "description": "Este sistema se desarrolló con la finalidad de registrar los materiales del almacén del ITVO, generando un QR en el dispositivo que es escaneado para confirmar el pedido y la entrega de los materiales o equipos, con el Stack Angular + Firebase + TailwindCSS.",
         "highlights": [
           "Elige tu propia aventura",
           "En desarrollo"
         ],
-        "url": "https://mars.codes"
+        "url": "https://almacen-815ae.web.app"
       },
       {
-        "name": "AdventJS",
+        "name": "SIRES",
+        "isActive":false,
+        "description": "Sistema de registro de semillas nativas, este proyecto se desarrolló en el periodo de servicio social en el ITVO con el Stack de Angular + Firebase + TailwindCSS",
+        "highlights": [
+          "Iniciativa propia",
+          "Terminada"
+        ],
+        "url": "https://semillas-nativas-e4f27.web.app"
+      },
+      {
+        "name": "Menú Sushi-House",
         "isActive": true,
-        "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+        "description": "Menú para un local de sushi en la ciudad de Oaxaca, Stack React + TailwindCSS",
         "highlights": [
-          "+1 millón de visitas",
-          "Multidioma",
-          "JavaScript & TypeScript"
+          "Emprendimiento"
         ],
-        "url": "https://advent.js/dev"
-      },
-      {
-        "name": "Codember",
-        "isActive": true,
-        "description": "Juego interactivo de programación con retos y secretos",
-        "highlights": [
-          "+2000 usuarios activos",
-          "Retos para cualquier lenguaje"
-        ],
-        "url": "https://codember.dev"
-      },
-      {
-        "name": "codi.link",
-        "isActive": true,
-        "description": "Playground de código HTML, CSS y JavaScript para compartir",
-        "highlights": [
-          "100k visitas al mes",
-          "Desarrollado por la comunidad"
-        ],
-        "url": "https://codi.link",
-        "github": "https://github.com/midudev/codi.link"
-      },
-      {
-        "name": "Pruebas Técnicas",
-        "isActive": true,
-        "description": "Lista de pruebas técnicas de empresas para practicar programación",
-        "highlights": [
-          "100% gratuito",
-          "+500 soluciones de la comunidad"
-        ],
-        "url": "https://pruebastecnicas.com",
-        "github": "https://github.com/midudev/pruebas-tecnicas"
-      },
-      {
-        "name": "miduConf",
-        "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-        "highlights": [
-          "+15k tickets repartidos",
-          "+50k espectadores en directo"
-        ],
-        "url": "https://miduconf.com"
+        "url": "https://menu-sushi-house.onrender.com/"
       }
     ]
   }
