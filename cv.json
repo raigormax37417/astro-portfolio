@@ -220,7 +220,7 @@
         "isActive": true,
         "description": "Este sistema se desarrolló con la finalidad de registrar los materiales del almacén del ITVO, generando un QR en el dispositivo que es escaneado para confirmar el pedido y la entrega de los materiales o equipos, con el Stack Angular + Firebase + TailwindCSS.",
         "highlights": [
-          "Elige tu propia aventura",
+          "Iniciativa propia",
           "En desarrollo"
         ],
         "url": "https://almacen-815ae.web.app"
